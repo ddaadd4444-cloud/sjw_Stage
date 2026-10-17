@@ -1,2 +1,4 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.max filter=lfs diff=lfs merge=lfs -text
+max/260919_sjw[[:space:]].max filter=lfs diff=lfs merge=lfs -text
+max/260919_sjw.max filter=lfs diff=lfs merge=lfs -text
